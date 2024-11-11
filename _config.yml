@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Site'
-subtitle: 'Blog'
-description: 'Description'
+title: 'K4LM3D'
+subtitle: ''
+description: ''
 keywords:
-author: 'Author'
+author: 'K4LM3D'
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: 
+url: 'https://kalmed.localplayer.dev/torn'
 # permalink: ':year/:month/:day/:title/'
-permalink: ':category/:name/' # ':post_title/:hash'
+permalink: ':name/' # ':category/:name/' # ':post_title/:hash'
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -110,8 +110,8 @@ theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-# deploy:
-#   type: git
-#   repo: https://github.com/username/username.github.io.git
-#   branch: gh-pages
-#   message: "Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}"
+deploy:
+  type: git
+  repo: https://github.com/k4lm3d/torn.git
+  branch: gh-pages
+  message: "Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}"
