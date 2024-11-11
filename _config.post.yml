@@ -2,32 +2,43 @@ widgets:
   -
     position: left
     type: profile
-    author: Author
-    author_title: 'Blogger'
-    location: Somewhere
-    avatar: /img/avatar.png
+    author: K4LM3D
+    author_title: Civilian
+    location: Torn City
+    avatar: /images/banners/K4LM3D_standard.gif
     avatar_rounded: true
     gravatar: 
-    follow_link: https://github.com/username
+    # follow_link: https://github.com/K4LM3D
     social_links:
       Facebook:
         icon: fab fa-facebook
-        url: https://facebook.com/username
+        url: https://facebook.com/profile.php?id=100091224549821
       Instagram:
         icon: fab fa-instagram
-        url: https://www.instagram.com/username
+        url: https://www.instagram.com/k4lm3d
       Twitter:
           icon: fab fa-twitter
-          url: https://twitter.com/username
+          url: https://twitter.com/K4LM3D
       TikTok:
         icon: fab fa-tiktok
-        url: https://tiktok.com/username
-  -
-    type: recent_posts
-    position: left
-  -
-    type: categories
-    position: left
-  -
-    type: tags
-    position: left
+        url: https://tiktok.com/K4LM3D
+  - 
+    position: right
+    type: toc
+    index: true
+  - position: right
+    type: links
+    links:
+      Play Torn: https://www.torn.com
+      Referral: https://www.torn.com/3091002
+      My Bazaar: https://www.torn.com/bazaar.php?userId=3091002#/
+      Course Checklist: /course-checklist
+  # -
+  #   type: recent_posts
+  #   position: left
+  # -
+  #   type: categories
+  #   position: right
+  # -
+  #   type: tags
+  #   position: right

@@ -4,18 +4,18 @@
 
 # Site
 title: 'K4LM3D'
-subtitle: ''
-description: ''
+subtitle: 'Gamer, Developer, Writer'
+description: 'Gamer Profile Website'
 keywords:
 author: 'K4LM3D'
 language: en
-timezone: ''
+timezone: 'Asia/Tokyo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: 'https://kalmed.localplayer.dev/torn'
+url: https://kalmed.localplayer.dev/torn # https://k4lm3d.github.io/torn
 # permalink: ':year/:month/:day/:title/'
-permalink: ':name/' # ':category/:name/' # ':post_title/:hash'
+permalink: ':name/' # ':post_title/:hash'
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -51,7 +51,7 @@ highlight:
   auto_detect: false
   tab_replace: ''
   wrap: true
-  hljs: false
+  hljs: true
   # clipboard: false
   # fold: unfolded
 prismjs:
@@ -73,8 +73,9 @@ index_generator:
 # default_category: uncategorized
 default_category: uncategorized
 category_map:
-  # "Projects": projects
+  # "Torn": torn
 tag_map:
+  "Education": education
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta

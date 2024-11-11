@@ -1,35 +1,35 @@
 version: 5.1.0
-variant: default #cyberpunk
-logo: # /img/logo.png
-  text: Website
+variant: default # cyberpunk
+logo: /images/logos/K4LM3D-text.png
+  # text: K4LM3D
 head:
-  favicon: /img/favicon.ico
+  favicon: /images/icons/favicon.ico
   manifest: # PWA
-    name: Author
-    short_name: author
-    start_url: # https://example.com
+    name: K4LM3D
+    short_name: K4LM3D
+    start_url: https://kalmed.localplayer.dev # https://k4lm3d.github.io
     theme_color: '#91bf24'
-    background_color: '#3273dc'
+    background_color: '#91bf24' # '#3273dc'
     display: standalone
     icons:
-      # -
-      #   src: icons/touch-icon-iphone.png
-      #   sizes: 144x144
-      #   type: image/png
-      # -
-      #   src: icons/touch-icon-ipad.png
-      #   sizes: 152x152
-      # -
-      #   src: icon/logo.ico
-      #   sizes: 72x72 96x96 128x128 256x256
+      -
+        src: images/icons/apple-touch-icon.png
+        sizes: 144x144
+        type: image/png
+      -
+        src: images/icons/apple-touch-icon.png
+        sizes: 152x152
+      -
+        src: images/icons/favicon.ico
+        sizes: 72x72 96x96 128x128 256x256
   open_graph:
-    title: 
+    title: K4LM3D
     type: blog
-    url: 
-    image: 
-    site_name: 
-    author: 
-    description: 
+    url: https://kalmed.localplayer.dev
+    image: images/avatars/DALLE-K4LM3D.png
+    site_name: K4LM3D
+    author: K4LM3D
+    description: Gamer Profile
     twitter_card: 
     twitter_id: 
     twitter_site: 
@@ -37,13 +37,13 @@ head:
     fb_admins: 
     fb_app_id: 
   structured_data:
-    title: 
-    description: 
-    url: 
-    author: 
-    image: 
-    publisher: 
-    publisher_logo: 
+    title: K4LM3D
+    description: Gamer Profile
+    url: https://kalmed.localplayer.dev
+    author: K4LM3D
+    image: images/avatars/DALLE-K4LM3D.png
+    publisher: K4LM3D
+    publisher_logo: images/avatars/DALLE-K4LM3D-NOBG.png
   meta:
     - name=theme-color;content=#91bf24
     - name=generator;content="Hexo 4.2.0"
@@ -51,26 +51,27 @@ head:
 navbar:
   menu: 
     Home: /
-    About: /about
+    About: /about/
+    Torn City: /TornCity
   links:
-    Github:
-      icon: fab fa-github
-      url: https://github.com/username
-    Facebook:
-      icon: fab fa-facebook
-      url: https://facebook.com/username
-    Instagram:
-      icon: fab fa-instagram
-      url: https://www.instagram.com/username
-    Twitter:
-      icon: fab fa-twitter
-      url: https://twitter.com/username
-    TikTok:
-      icon: fab fa-tiktok
-      url: https://tiktok.com/username
+    # Github:
+    #   icon: fab fa-github
+    #   url: https://github.com/K4LM3D
+    # Facebook:
+    #   icon: fab fa-facebook
+    #   url: https://facebook.com/profile.php?id=100091224549821
+    # Instagram:
+    #   icon: fab fa-instagram
+    #   url: https://www.instagram.com/k4lm3d
+    # Twitter:
+    #   icon: fab fa-twitter
+    #   url: https://twitter.com/K4LM3D
+    # TikTok:
+    #   icon: fab fa-tiktok
+    #   url: https://tiktok.com/K4LM3D
 search:
   type: insight
-  include_pages: true
+  include_pages: false
   # Optional. Set to `false` to exclude pages from search results.
 footer: 
   links:
@@ -81,22 +82,22 @@ footer:
       'CC BY-NC-SA 4.0': ''
     Github:
       icon: fab fa-github
-      url: https://github.com/username
+      url: https://github.com/K4LM3D
     Guilded:
       icon: fab fa-guilded
-      url: https://guilded.gg/u/username
+      url: https://guilded.gg/u/K4LM3D
     Itch:
       icon: fab fa-itch-io
-      url: https://username.itch.io/
+      url: https://k4lm3d.itch.io/
     # Reddit:
     #   icon: fab fa-reddit
-    #   url: https://www.reddit.com/user/username
+    #   url: https://www.reddit.com/user/K4LM3D
     # Twitch:
     #   icon: fab fa-twitch
-    #   url: https://www.twitch.tv/username
+    #   url: https://www.twitch.tv/k4lm3d_
   article:
     highlight:
-      theme: atom-one-light # xt256, qtcreator_dark, atom-one-light
+      theme: atom-one-dark # xt256, qtcreator_dark, atom-one-light
       clipboard: true
       fold: unfolded
     readtime: true
@@ -106,7 +107,7 @@ footer:
       #   icon: fab fa-creative-commons
       #   url: 'https://creativecommons.org'
       # 'CC BY-NC-SA 4.0': ''
-  # copyright: Website
+  # copyright: K4LM3D
 sidebar:
   left:
     sticky: true
@@ -116,55 +117,61 @@ widgets:
   -
     position: left
     type: profile
-    author: Author
-    author_title: 'Blogger'
-    location: Somewhere
-    avatar: /img/avatar.png
+    author: K4LM3D
+    author_title: Civilian
+    location: Torn City
+    avatar: /images/banners/K4LM3D_standard.gif
     avatar_rounded: true
-    gravatar: 
-    follow_link: # https://github.com/username
+    # gravatar: 
+    follow_link: # https://github.com/K4LM3D
     social_links:
       Facebook:
         icon: fab fa-facebook
-        url: https://facebook.com/username
+        url: https://facebook.com/profile.php?id=100091224549821
       Instagram:
         icon: fab fa-instagram
-        url: https://www.instagram.com/username
+        url: https://www.instagram.com/k4lm3d
       Twitter:
         icon: fab fa-twitter
-        url: https://twitter.com/username
+        url: https://twitter.com/K4LM3D
       TikTok:
         icon: fab fa-tiktok
-        url: https://tiktok.com/username
+        url: https://tiktok.com/K4LM3D
   - 
     position: right
     type: toc
     index: true
+  - position: right
+    type: links
+    links:
+      Play Torn: https://www.torn.com
+      Referral: https://www.torn.com/3091002
+      My Bazaar: https://www.torn.com/bazaar.php?userId=3091002#/
 plugins:
   animejs: true
   back_to_top: true
-  baidu_analytics:
-    tracking_id: 
-  bing_webmaster:
-    tracking_id: 
-  busuanzi: false
-  cnzz:
-    id: 
-    web_id: 
-  gallery: false
-  google_analytics:
-    tracking_id: 
-  hotjar:
-    site_id: 
+  # baidu_analytics:
+  #   tracking_id: 
+  # bing_webmaster:
+  #   tracking_id: 
+  # busuanzi: false
+  # cnzz:
+  #   id: 
+  #   web_id: 
+  gallery: true
+  # google_analytics:
+  #   tracking_id: 
+  # hotjar:
+  #   site_id: 
   katex: false
   mathjax: false
   outdated_browser: false
   progressbar: true
-  statcounter:
-    project: 
-    security: 
-  twitter_conversion_tracking:
-    pixel_id: 
+  # statcounter:
+  #   project: 
+  #   security: 
+  # twitter_conversion_tracking:
+  #   pixel_id: 
 providers:
   cdn: jsdelivr
   fontcdn: google
