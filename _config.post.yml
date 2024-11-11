@@ -1,0 +1,33 @@
+widgets:
+  -
+    position: left
+    type: profile
+    author: Author
+    author_title: 'Blogger'
+    location: Somewhere
+    avatar: /img/avatar.png
+    avatar_rounded: true
+    gravatar: 
+    follow_link: https://github.com/username
+    social_links:
+      Facebook:
+        icon: fab fa-facebook
+        url: https://facebook.com/username
+      Instagram:
+        icon: fab fa-instagram
+        url: https://www.instagram.com/username
+      Twitter:
+          icon: fab fa-twitter
+          url: https://twitter.com/username
+      TikTok:
+        icon: fab fa-tiktok
+        url: https://tiktok.com/username
+  -
+    type: recent_posts
+    position: left
+  -
+    type: categories
+    position: left
+  -
+    type: tags
+    position: left
