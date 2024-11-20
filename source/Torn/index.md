@@ -21,38 +21,3 @@ Torn is a massive multiplayer game with thousands of active players around the w
     </small>
   </div>
 </article>
-
----
-
-### Goals
-*(in-game)*
-
-<article class="message is-primary">
-  <div class="message-body">
-    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
-  </div>
-</article>
-
-**Crimes**
-  - [x] Bootlegging: Take CMT2230 Web Design and Development
-  - [x] Bootlegging: Honor: Online Entreprenuer
-  - [x] Bootlegging: Enhancer: High-Speed Drive
-  - [x] Bootlegging: Skill lvl.50: Set up an online store
-  - [x] Bootlegging: Skill lvl.100
-  - [x] Cracking: Skill lvl.50
-  - [x] Cracking: Honor: Character Assassination
-  - [ ] Buy all enhancers for crimes
-  - [ ] Cracking: Skill lvl.100
-
-**Education**
-  - [ ] Computer Science: Finish the course
-
-**Job**
-  - [x] Education: Position: Principal
-  - [x] Army: Position: General
-  - [ ] Law
-  - [ ] Apply to a Law Firm? *(or make one?)*
-  - [ ] Back to a Security Firm?
-
-___
-*<small>Last updated on 2024-10-07</small>*
