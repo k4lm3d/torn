@@ -1,7 +1,7 @@
 ---
 title: My Course Checklist
 date: '2024-03-04 11:26:54'
-updated: '2024-09-04 17:00:00' # '2024-08-29 17:28:54'
+updated: 2023-11-20 10:09:12 # '2024-09-04 17:00:00' # '2024-08-29 17:28:54'
 excerpt: "In this post, I will show you the list of courses I taken up, currently taking, and will be taking."
 toc: true
 categories:
@@ -35,7 +35,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 - [ ] `BUS1100` : Introduction To Business
   - [ ] `BUS2200` : Statistics
   - [ ] `BUS2300` : Communication
-  - [ ] `BUS2400` : Marketing
+  - [ ] `BUS2400` : Marketing*
   - [ ] `BUS2500` : Corporate Finance
   - [ ] `BUS2600` : Corporate Strategy
   - [ ] `BUS2700` : Pricing Strategy
@@ -66,16 +66,16 @@ In this post, I will show you the list of courses I taken up, currently taking, 
     - [x] `CMT2560` : Algorithms And Advanced Programming
     - [x] `CMT2130` : Web Security And Penetration Testing **[New]**
     - [x] `CMT2131` : Automated Data Mining & Processing **[New]**
-  - [ ] `CMT2540` : Networking
-    - [ ] `CMT2610` : Computer Security And Defense
-  - [ ] `CMT2550` : **Computer Repair** *(currently taking)*
+  - [x] `CMT2540` : Networking
+    - [x] `CMT2610` : Computer Security And Defense
+  - [x] `CMT2550` : Computer Repair
   - [x] `CMT2570` : Fundamentals Of Computer Architecture
     - [x] `CMT2128` : Overclocking
       - [x] `CMT2129` : Advanced Overclocking
   - [x] `CMT2580` : Software Engineering
   - [x] `CMT2590` : Quantum Computing
   - [x] `CMT2600` : Natural Language Engineering
-- [ ] `CMT3620` : Bachelor Of Computer Science
+- [ ] `CMT3620` : **Bachelor Of Computer Science** *(currently taking)*
 
 ### General Studies
 - [ ] `GEN1112` : Introduction To General Studies
@@ -116,7 +116,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 - [x] `LAW1880` : Introduction To Law
   - [ ] `LAW2890` : Public Law
   - [ ] `LAW2900` : Common Law
-  - [ ] `LAW2910` : Property Law
+  - [ ] `LAW2910` : Property Law*
   - [ ] `LAW2920` : Criminal Law
   - [ ] `LAW2930` : Administrative Law
   - [ ] `LAW2940` : Commercial And Consumer Law*
@@ -125,7 +125,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `LAW2970` : Social And Economic Law
   - [ ] `LAW2980` : Use Of Force In International Law
   - [ ] `LAW2990` : International Human Rights
-  - [ ] `LAW2100` : Media Law
+  - [ ] `LAW2100` : Media Law*
   - [x] `LAW2101` : Revenue Law
 - [ ] `LAW3102` : Bachelor Of Law+
 

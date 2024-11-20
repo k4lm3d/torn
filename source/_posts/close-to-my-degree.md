@@ -3,7 +3,7 @@ title: I'm So Close to My Degree
 date: 2024-09-04 18:18:40
 # cover:
 # thumbnail:
-updated: 2024-09-05 11:09:20
+updated: 2023-11-20 10:09:12 # 2024-09-05 11:09:20
 excerpt: 'As I sit down to write this, I can hardly believe how close I am to achieving a significant milestone in my life: earning a degree.'
 # comments:
 # layout:
@@ -27,16 +27,16 @@ As I sit down to write this, I can hardly believe how close I am to achieving a 
 >     - [x] `CMT2560` : Algorithms And Advanced Programming `(21 Days)`
 >     - [x] `CMT2130` : Web Security And Penetration Testing `(7 Days)` **[New]**
 >     - [x] `CMT2131` : Automated Data Mining & Processing `(14 Days)` **[New]**
->   - [ ] `CMT2540` : Networking `(14 Days)`
->     - [ ] `CMT2610` : Computer Security And Defense `(28 Days)`
->   - [ ] `CMT2550` : **Computer Repair** `(14 Days)` *(currently taking)*
+>   - [x] `CMT2540` : Networking `(14 Days)`
+>     - [x] `CMT2610` : Computer Security And Defense `(28 Days)`
+>   - [x] `CMT2550` : Computer Repair `(14 Days)`
 >   - [x] `CMT2570` : Fundamentals Of Computer Architecture `(14 Days)`
 >     - [x] `CMT2128` : Overclocking `(7 Days)`
 >       - [x] `CMT2129` : Advanced Overclocking `(7 Days)`
 >   - [x] `CMT2580` : Software Engineering `(21 Days)`
 >   - [x] `CMT2590` : Quantum Computing `(14 Days)`
 >   - [x] `CMT2600` : Natural Language Engineering `(21 Days)`
-> - [ ] `CMT3620` : Bachelor Of Computer Science `(49 Days)`
+> - [ ] `CMT3620` : **Bachelor Of Computer Science** `(49 Days)` *(currently taking)*
 >
 > <small>To see the courses I've taken, check my [Course Checklist](/course-checklist)</small>
 
