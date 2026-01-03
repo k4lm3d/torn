@@ -12,6 +12,7 @@ excerpt: "I opened a bazaar for 250 points in Torn. Is it worth it? I spent days
 # photos:
 # lang:
 toc: false
+draft: true
 ---
 
 Hi again! K4LM3D here. This is gonna be an update post. Again, thank you for passing by, thank you for reading my posts. Hope you're doing well in your journey too!
