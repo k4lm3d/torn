@@ -5,6 +5,11 @@ updated: '2024-03-02 17:01:22'
 toc: true
 excerpt: "This post is a bunch of updates of how I am living at Torn City now."
 categories:
+tags:
+  - [Education]
+  - [Faction]
+  - [Property]
+  - [Job]
 ---
 
 Hello again, citizens of Torn! If you’re reading this, I just want to say thank you for visiting my blog ^.^

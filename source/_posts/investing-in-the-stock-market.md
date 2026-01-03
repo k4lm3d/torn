@@ -3,15 +3,9 @@ title: "I'm Investing In The Stock Market"
 date: 2024-09-06 01:57:14
 # updated:
 excerpt: "I grind and grind to make millions of dollars. I studied about Points Market, Torn City Stock Exchange (TCSE), and West Side university (WSU)."
-# permalink:
-# cover:
-# thumbnail:
-# layout:
-# source:
-# photos:
-# lang:
-# comments:
 categories:
+tags:
+  - [Stock Market]
 toc: false
 ---
 

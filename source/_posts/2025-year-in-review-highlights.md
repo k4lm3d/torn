@@ -4,6 +4,13 @@ date: 2025-12-30 01:38:13
 updated: 2026-01-03 22:03:13
 excerpt: "This is my 2025 Year in Review and Highlights translated into English"
 toc: true
+tags:
+  - [Education]
+  - [Travel]
+  - [Faction]
+  - [Marriage]
+  - [Property]
+  - [Crimes]
 ---
 
 ## Introduction

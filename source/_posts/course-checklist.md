@@ -1,7 +1,7 @@
 ---
 title: My Course Checklist
 date: '2024-03-04 11:26:54'
-updated: 2023-11-20 10:09:12 # '2024-09-04 17:00:00' # '2024-08-29 17:28:54'
+updated: 2026-01-03 00:50:17 # 2023-11-20 10:09:12, 2024-09-04 17:00:00, 2024-08-29 17:28:54
 excerpt: "In this post, I will show you the list of courses I taken up, currently taking, and will be taking."
 toc: true
 categories:
@@ -75,7 +75,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [x] `CMT2580` : Software Engineering
   - [x] `CMT2590` : Quantum Computing
   - [x] `CMT2600` : Natural Language Engineering
-- [ ] `CMT3620` : **Bachelor Of Computer Science** *(currently taking)*
+- [x] `CMT3620` : **Bachelor Of Computer Science**
 
 ### General Studies
 - [ ] `GEN1112` : Introduction To General Studies
@@ -103,14 +103,14 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 - [ ] `HAF3111` : Bachelor Of Health Sciences
 
 ### History
-- [ ] `HIS1140` : Introduction To History
-  - [ ] `HIS2150` : Aims & Methods In Archaeology
-  - [ ] `HIS2160` : Ancient Japanese History
-  - [ ] `HIS2170` : Medieval History
-  - [ ] `HIS2180` : Medieval Archaeology
-  - [ ] `HIS2190` : South Asian Archaeology
-  - [ ] `HIS2200` : Egyptian Archaeology
-- [ ] `HIS3210` : Bachelor Of History*
+- [x] `HIS1140` : Introduction To History
+  - [x] `HIS2150` : Aims & Methods In Archaeology
+  - [x] `HIS2160` : Ancient Japanese History
+  - [x] `HIS2170` : Medieval History
+  - [x] `HIS2180` : Medieval Archaeology
+  - [x] `HIS2190` : South Asian Archaeology
+  - [x] `HIS2200` : Egyptian Archaeology
+- [ ] `HIS3210` : Bachelor Of History* ***(currently taking)***
 
 ### Law
 - [x] `LAW1880` : Introduction To Law
@@ -125,7 +125,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `LAW2970` : Social And Economic Law
   - [ ] `LAW2980` : Use Of Force In International Law
   - [ ] `LAW2990` : International Human Rights
-  - [ ] `LAW2100` : Media Law*
+  - [x] `LAW2100` : Media Law*
   - [x] `LAW2101` : Revenue Law
 - [ ] `LAW3102` : Bachelor Of Law+
 
@@ -144,35 +144,35 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 
 ### Psychology
 - [x] `PSY1630` : Introduction To Psychology
-  - [ ] `PSY2640` : Memory And Decision
-  - [ ] `PSY2650` : Brain And Behaviour
-  - [ ] `PSY2660` : Quantitative Methods In Psychology
-  - [ ] `PSY2670` : Applied Decision Methods
-  - [ ] `PSY2680` : Attention And Awareness
-  - [ ] `PSY2132` Intrapersonal Dynamics **[New]**
-- [ ] `PSY3690` : Bachelor Of Psychological Sciences+
+  - [x] `PSY2640` : Memory And Decision
+  - [x] `PSY2650` : Brain And Behaviour
+  - [x] `PSY2660` : Quantitative Methods In Psychology
+  - [x] `PSY2670` : Applied Decision Methods
+  - [x] `PSY2680` : Attention And Awareness
+  - [x] `PSY2132` Intrapersonal Dynamics **[New]**
+- [x] `PSY3690` : Bachelor Of Psychological Sciences+
 
 ### Self Defence
 - [x] `DEF1700` : Introduction To Self Defense
-  - [ ] `DEF2710` : Judo
+  - [x] `DEF2710` : Judo
   - [x] `DEF2720` : Kick Boxing
-  - [ ] `DEF2730` : Krav Maga
-  - [ ] `DEF2740` : Jujitsu
-  - [ ] `DEF2750` : Tae Kwon Do
-  - [ ] `DEF2760` : Muay Thai
-- [ ] `DEF3770` : Bachelor Of Self Defense+
+  - [x] `DEF2730` : Krav Maga
+  - [x] `DEF2740` : Jujitsu
+  - [x] `DEF2750` : Tae Kwon Do
+  - [x] `DEF2760` : Muay Thai
+- [x] `DEF3770` : Bachelor Of Self Defense+
 
 ### Sports Science
 - [x] `SPT1430` : Introduction To Sports Science
   - [x] `SPT2440` : Strength And Conditioning
-  - [ ] `SPT2450` : Physiological Testing
-  - [ ] `SPT2460` : Human Movement Analysis
+  - [x] `SPT2450` : Physiological Testing
+  - [x] `SPT2460` : Human Movement Analysis
   - [x] `SPT2470` : Bio Mechanical Determinants Of Skill
-  - [ ] `SPT2480` : Sports Medicine*
+  - [x] `SPT2480` : Sports Medicine*
   - [x] `SPT2490` : Nutritional Science
   - [x] `SPT2500` : Analysis And Performance
-  - [ ] `SPT2126` : Sports Administration
-- [ ] `SPT3510` : Bachelor Of Sports Science+
+  - [x] `SPT2126` : Sports Administration
+- [x] `SPT3510` : Bachelor Of Sports Science+
 
 ___
 *<small>Last updated on 2024-08-29</small>*
