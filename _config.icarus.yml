@@ -5,8 +5,8 @@ logo: /images/logos/K4LM3D-text.png
 head:
   favicon: /images/icons/favicon.ico
   manifest: # PWA
-    name: K4LM3D
-    short_name: K4LM3D
+    name: Kalakal
+    short_name: Kalakal
     start_url: https://kalmed.localplayer.dev # https://k4lm3d.github.io
     theme_color: '#91bf24'
     background_color: '#91bf24' # '#3273dc'
@@ -23,13 +23,13 @@ head:
         src: images/icons/favicon.ico
         sizes: 72x72 96x96 128x128 256x256
   open_graph:
-    title: K4LM3D
+    title: Kalakal
     type: blog
     url: https://kalmed.localplayer.dev
     image: images/avatars/DALLE-K4LM3D.png
-    site_name: K4LM3D
+    site_name: Kalakal
     author: K4LM3D
-    description: Gamer Profile
+    description: Torn Diaries
     twitter_card: 
     twitter_id: 
     twitter_site: 
@@ -37,8 +37,8 @@ head:
     fb_admins: 
     fb_app_id: 
   structured_data:
-    title: K4LM3D
-    description: Gamer Profile
+    title: Kalakal
+    description: Torn Diaries
     url: https://kalmed.localplayer.dev
     author: K4LM3D
     image: images/avatars/DALLE-K4LM3D.png
@@ -59,7 +59,7 @@ navbar:
     #   url: https://github.com/K4LM3D
     # Facebook:
     #   icon: fab fa-facebook
-    #   url: https://facebook.com/profile.php?id=100091224549821
+    #   url: https://facebook.com/k4lm3dgg
     # Instagram:
     #   icon: fab fa-instagram
     #   url: https://www.instagram.com/k4lm3d
@@ -117,7 +117,7 @@ widgets:
   -
     position: left
     type: profile
-    author: K4LM3D
+    author: Kalakal
     author_title: Civilian
     location: Torn City
     avatar: /images/banners/K4LM3D_standard.gif
@@ -127,7 +127,7 @@ widgets:
     social_links:
       Facebook:
         icon: fab fa-facebook
-        url: https://facebook.com/profile.php?id=100091224549821
+        url: https://facebook.com/k4lm3dgg
       Instagram:
         icon: fab fa-instagram
         url: https://www.instagram.com/k4lm3d

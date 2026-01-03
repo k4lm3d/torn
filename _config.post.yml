@@ -2,7 +2,7 @@ widgets:
   -
     position: left
     type: profile
-    author: K4LM3D
+    author: Kalakal
     author_title: Civilian
     location: Torn City
     avatar: /images/banners/K4LM3D_standard.gif
@@ -12,7 +12,7 @@ widgets:
     social_links:
       Facebook:
         icon: fab fa-facebook
-        url: https://facebook.com/profile.php?id=100091224549821
+        url: https://facebook.com/k4lm3dgg
       Instagram:
         icon: fab fa-instagram
         url: https://www.instagram.com/k4lm3d
