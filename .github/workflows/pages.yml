@@ -1,38 +1,38 @@
-name: GitHub Pages
+name: Pages
 
-on: push
+on:
+  push:
+    branches:
+      - main  # default branch
 
 jobs:
-  publish:
+  pages:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
         with:
-          node-version: '14'
-      - run: npm install
-      - run: npx hexo algolia
-        env:
-          HEXO_ALGOLIA_INDEXING_KEY: ${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}
-      - run: NODE_ENV=production npx hexo g
-      - uses: peaceiris/actions-gh-pages@v3
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # If your repository depends on submodule, please see: https://github.com/actions/checkout
+          submodules: recursive
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+      - name: Cache NPM dependencies
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.OS }}-npm-cache
+          restore-keys: |
+            ${{ runner.OS }}-npm-cache
+      - name: Install Dependencies
+        run: npm install
+      - name: Build
+        run: npm run build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          force_orphan: true 
-          path: ./public
-  deploy:
-    needs: build
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4          
-        github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
