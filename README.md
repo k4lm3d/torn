@@ -2,7 +2,7 @@
 
 ## Information
 
-- Description: **Gamer Profile Website**
+- Description: **Torn Diaries**
 - Repository: [GitHub](https://github.com) > [k4lm3d](https://github.com/k4lm3d)/[k4lm3d.github.io](https://github.com/k4lm3d/k4lm3d.github.io)
 - Deployment: [GitHub Pages](https://pages.github.com) > [k4lm3d.github.io](https://k4lm3d.github.io)
 - Subdomain(s):
