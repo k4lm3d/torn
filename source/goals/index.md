@@ -1,6 +1,6 @@
 ---
 title: 'My Torn Goals'
-# date: 2023-10-13 05:19:32
+date: 2023-10-13 05:19:32
 updated: 2023-11-20 10:09:12 # 2023-10-13 05:19:32
 excerpt: 'My in-game goals and more in Torn'
 draft: false
@@ -25,16 +25,16 @@ layout: page
   - [x] Cracking: Skill lvl.50
   - [x] Cracking: Honor: Character Assassination
   - [ ] Buy all enhancers for crimes
-  - [ ] Cracking: Skill lvl.100
+  - [x] Cracking: Skill lvl.100
 
 **Education**
-  - [ ] Computer Science: Finish the course
+  - [x] Computer Science: Finish the course
 
 **Job**
   - [x] Education: Position: Principal
   - [x] Job: Army: Position: General
   - [x] Apply to a Law Firm? *~~(or make one?)~~*
-  - [ ] Job: Law
+  - [x] Job: Law
   - [ ] Back to a Private Security Firm?
 
 ___
