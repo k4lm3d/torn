@@ -47,7 +47,9 @@ Fast forward on the month of Mayo, I've decided to focus on my real life commitm
 
 After our failed ranked war, I said goodbye to them but when I'm about to click the leave button, I can't do it so I asked **Josy82**, one of the council, to kick me instead. She kicked me out with this message:
 
-> *"Goodbye Kal,i hate to do this but you was asking,c u around."*
+> ***"Goodbye Kal,i hate to do this but you was asking,c u around."*** &mdash;Josy82
+
+<br>
 
 <article class="message is-primary">
   <div class="message-body">
