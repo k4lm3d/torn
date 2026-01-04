@@ -21,9 +21,15 @@ Anyway, on this post, I'll share some of my 2025 journey and milestones.
 
 ## Quarter I: All New
 
-The year began with a push for rank, hitting **Highly Distinguished** in early January. Then after a year of service in **Coursebound Armada [OJCW]** faction, I got promoted from **Navigator** to **First Officer**. 🏴‍☠️
+The year began with a push for rank, hitting **Highly Distinguished** in early January. Then after a year of service in **Coursebound Armada [OJCW]** faction (formerly known as "Orage Chocolate Winter"), I got promoted from **Navigator** to **First Officer**. 🏴‍☠️
 
-That was a big change for me because I wasn’t just assisting in our operations anymore, I’m also part of the council where I now have the power to vote on the faction’s plans. Aside form that, I became a spy for our leader, **Inf3xshun**. It just happened and we didn't plan it. I'm not going to keep it a secret anymore because there's no reason to hide it, but I won't share any details of it. 😉 So, if need to spy on someone in-game, hire me! *(Joke! I'm retired!)*
+That was a big change for me because I wasn’t just assisting in our operations anymore, I’m also part of the council where I now have the power to vote on the faction’s plans. Aside form that, I became a spy for our leader, **Inf3xshun**. It just happened and we didn't plan it. I'm not going to keep it a secret anymore because there's no reason to hide it, but I won't share any details of it.
+
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> So, if need to spy on someone in-game, hire me! 😉 Just kidding! I'm retired!
+  </div>
+</article>
 
 On the month of February, **Inf3xshun** sold our faction to **slugginshipley**, one of the council members, because of his health issues IRL. That same month, I reached level 40.
 
@@ -31,7 +37,7 @@ Then, the day of March 20 come when I celebrated my 500th day of service in OJCW
 
 <article class="message is-primary">
   <div class="message-body">
-    <i class="fas fa-info mr-2"></i> BTW If you need an active faction, just DM me and I'll recommend you to them. 🙂
+    <i class="fas fa-info mr-2"></i> By the way, If you need an active faction, just DM me and I'll recommend you to them. 🙂
   </div>
 </article>
 
@@ -39,9 +45,17 @@ Then, the day of March 20 come when I celebrated my 500th day of service in OJCW
 
 Fast forward on the month of Mayo, I've decided to focus on my real life commitments and stop playing games. It was a tough decision to make but I have to do it coz I don't wanna burden other people both online and offline.
 
-After our failed ranked war, I said goodbye to them but when I'm about to click the leave button, I can't do it so I asked **Josy82**, one of the council, to kick me instead. She kicked me out with this message: *"Goodbye Kal,i hate to do this but you was asking,c u around."* I can't describe that feeling. I'm happy yet it hurts. 😩
+After our failed ranked war, I said goodbye to them but when I'm about to click the leave button, I can't do it so I asked **Josy82**, one of the council, to kick me instead. She kicked me out with this message:
 
-After that, of course I didn't play anymore but I was still receiving messages from members of my old faction, and mails from players who wanted to recruit me into their faction/company. Then, I remembered **koolet321**, my former landlord who is actually Filipino and has an all-Filipino faction. *(Hey, Filipinos! 🇵🇭)* To stop receiving recruitment messages, my solution was to join an inactive faction.
+> *"Goodbye Kal,i hate to do this but you was asking,c u around."*
+
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> You know when you're making a sacrifice? when you're happy and accepting the situation, but it hurts at the same time? That's what I felt that time. 😩
+  </div>
+</article>
+
+After that, of course I didn't play anymore but I was still receiving messages from members of my old faction, and mails from players who wanted to recruit me into their faction/company. Then, I remembered **koolet321**, my former landlord who is actually Filipino and has an all-Filipino faction. *(Uy, Pilipins! 🇵🇭)* To stop receiving recruitment messages, my solution was to join an inactive faction.
 
 **koolet321** said back then that their gang was inactive because they were busy with life, but I could still join. So I messaged her and joined **Philippine Republic [PR]**.
 
@@ -63,7 +77,7 @@ I proposed and we got married on Nov 18. We invited **Khaelent** as our witness,
 
 The next day, I reached level 45, and I got a message from **Josy82** congratulating us. 🥰 I was surprised and wondered how she found out, but I assumed **Xythran** told her because he already said goodbye since he was busy in real life and the twice-a-month ranked war in a very active faction was too much hassle.  
 
-**Xythran** left OJCW on Dec 3 to transfer to PR. It took a while due to some issues, so he was able to buy PI on Dec 9.  
+**Xythran** left OJCW on Dec 3 to join to PR. It took a while due to some issues, so he was able to buy PI on Dec 9.  
 
 Then, just recently on Dec. 27, I finally got the **Spinner** honor. Out of all the awards, this is probably the one I'm most proud of. I mean, you have to spin the roulette wheel a thousand times. Within 2 weeks (1000 / 75 = 13.33), you can get it, but it’s a bit of a drag, so I wasn’t consistent.  
 
