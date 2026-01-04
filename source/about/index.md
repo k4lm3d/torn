@@ -13,4 +13,5 @@ Thanks for stopping by. I will be posting more gaming related contents and exper
 ___
 
 **Edit** (2026-01-03):
-I changed my in-game name/username to **Kalakal**. You can check my post about it [here](/torn/2025-year-in-review-highlights).
+- I changed my in-game name/username to **Kalakal**. You can check my post about it [here](/torn/2025-year-in-review-highlights).
+- Also, I changed this site description to **Torn Diaries** because **Inf3xshun** used that to refer to this.
