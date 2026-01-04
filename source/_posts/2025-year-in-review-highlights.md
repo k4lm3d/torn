@@ -27,7 +27,13 @@ That was a big change for me because I wasn’t just assisting in our operations
 
 On the month of February, **Inf3xshun** sold our faction to **slugginshipley**, one of the council members, because of his health issues IRL. That same month, I reached level 40.
 
-Then, the day of March 20 come when I celebrated my 500th day of service in OJCW faction. That same day I changed my username. *(BTW If you need an active faction, just DM me and I'll recommend you to them.)*
+Then, the day of March 20 come when I celebrated my 500th day of service in OJCW faction. That same day I changed my username.
+
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> BTW If you need an active faction, just DM me and I'll recommend you to them. 🙂
+  </div>
+</article>
 
 ## Quarter II: The Tough Transition
 
@@ -37,7 +43,13 @@ After our failed ranked war, I said goodbye to them but when I'm about to click 
 
 After that, of course I didn't play anymore but I was still receiving messages from members of my old faction, and mails from players who wanted to recruit me into their faction/company. Then, I remembered **koolet321**, my former landlord who is actually Filipino and has an all-Filipino faction. *(Hey, Filipinos! 🇵🇭)* To stop receiving recruitment messages, my solution was to join an inactive faction.
 
-**koolet321** said back then that their gang was inactive because they were busy with life, but I could still join. So I messaged her and joined **Philippine Republic [PR]**. *(If you need to rent a Private Island, message her and mention me, she might give you a discount! 😗 Sorry. I'm promoting again 😅)*
+**koolet321** said back then that their gang was inactive because they were busy with life, but I could still join. So I messaged her and joined **Philippine Republic [PR]**.
+
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> If you need to rent a Private Island, message her and mention me, she might give you a discount! 😗 Sorry. I'm promoting again 😅
+  </div>
+</article>
 
 ## Quarter III: Inactivity and Longevity
 
@@ -47,7 +59,7 @@ I just visit Torn occationally after all of that, especially since I don't alway
 
 When November came, **Xythran** and I planned to buy a PI and share it here. It started on September 14 when he found a **Cesium-137** in the City worth more than 500 million.
 
-I proposed and we got married on Nov 18. We invited **Khaelent** as our witness, which he accepted after he landed sa airport  😆 *(It's just that he was the only one active at that time)* and we vowed to share PI. But that time we haven;t have PI, so we shared my mansion for the meantime.
+I proposed and we got married on Nov 18. We invited **Khaelent** as our witness, which he accepted after he landed in the airport 😆 *(It's just that he was the only one active at that time)* and we vowed to share PI. But that time we haven;t have PI, so we shared my mansion for the meantime.
 
 The next day, I reached level 45, and I got a message from **Josy82** congratulating us. 🥰 I was surprised and wondered how she found out, but I assumed **Xythran** told her because he already said goodbye since he was busy in real life and the twice-a-month ranked war in a very active faction was too much hassle.  
 
