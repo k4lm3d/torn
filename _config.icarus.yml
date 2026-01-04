@@ -1,7 +1,7 @@
 version: 5.1.0
 variant: default # cyberpunk
 logo: /images/logos/K4LM3D-text.png
-  # text: K4LM3D
+  text: My Torn Diaries
 head:
   favicon: /images/icons/favicon.ico
   manifest: # PWA
