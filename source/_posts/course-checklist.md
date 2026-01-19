@@ -1,7 +1,7 @@
 ---
 title: My Course Checklist
 date: '2024-03-04 11:26:54'
-updated: 2026-01-03 00:50:17 # 2023-11-20 10:09:12, 2024-09-04 17:00:00, 2024-08-29 17:28:54
+updated: 2026-01-20 00:32:17 # 2026-01-03 00:50:17, 2024-09-04 17:00:00, 2024-08-29 17:28:54
 excerpt: "In this post, I will show you the list of courses I taken up, currently taking, and will be taking."
 toc: true
 categories:
@@ -110,11 +110,11 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [x] `HIS2180` : Medieval Archaeology
   - [x] `HIS2190` : South Asian Archaeology
   - [x] `HIS2200` : Egyptian Archaeology
-- [ ] `HIS3210` : Bachelor Of History* ***(currently taking)***
+- [x] `HIS3210` : Bachelor Of History*
 
 ### Law
 - [x] `LAW1880` : Introduction To Law
-  - [ ] `LAW2890` : Public Law
+  - [ ] `LAW2890` : Public Law ***(currently taking)***
   - [ ] `LAW2900` : Common Law
   - [ ] `LAW2910` : Property Law*
   - [ ] `LAW2920` : Criminal Law
@@ -175,7 +175,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 - [x] `SPT3510` : Bachelor Of Sports Science+
 
 ___
-*<small>Last updated on 2024-08-29</small>*
+*<small>Last updated on 2026-01-20</small>*
 <article class="message is-primary">
   <div class="message-body">
     <small>
