@@ -3,7 +3,7 @@ title: I'm So Close to My Degree
 date: 2024-09-04 18:18:40
 # cover:
 # thumbnail:
-updated: 2023-11-20 10:09:12 # 2024-09-05 11:09:20
+updated: 2026-01-20 14:07:12 # 2024-09-05 11:09:20
 excerpt: 'As I sit down to write this, I can hardly believe how close I am to achieving a significant milestone in my life: earning a degree.'
 # comments:
 # layout:
@@ -36,9 +36,9 @@ As I sit down to write this, I can hardly believe how close I am to achieving a 
 >   - [x] `CMT2580` : Software Engineering `(21 Days)`
 >   - [x] `CMT2590` : Quantum Computing `(14 Days)`
 >   - [x] `CMT2600` : Natural Language Engineering `(21 Days)`
-> - [ ] `CMT3620` : **Bachelor Of Computer Science** `(49 Days)` *(currently taking)*
+> - [x] `CMT3620` : **Bachelor Of Computer Science** `(49 Days)`
 >
-> <small>To see the courses I've taken, check my [Course Checklist](/course-checklist)</small>
+> <small>To see the courses I've taken, check my [Course Checklist](/torn/course-checklist)</small>
 
 Actually, it should be less than that. A week ago, the curriculum changed. They added to two (2) more courses related to aiding the increase of email frauds (See <a href="https://www.torn.com/forums.php#/p=threads&f=1&t=16417770&b=0&a=0" target="_blank">Crimes 2.0: Scamming</a>) which will take 21 days to finish.
 
