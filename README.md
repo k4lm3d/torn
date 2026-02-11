@@ -25,3 +25,6 @@
 - [Setup an Hexo site](https://hexo.io/docs/setup/)
 - [Install Icarus as a node package via NPM](https://ppoffice.github.io/hexo-theme-icarus/uncategorized/getting-started-with-icarus/#install-npm)
 - Start the Hexo local server: `hexo server`
+
+___
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O21U14QZ)
