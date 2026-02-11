@@ -16,9 +16,9 @@ widgets:
       Instagram:
         icon: fab fa-instagram
         url: https://www.instagram.com/k4lm3d
-      Twitter:
-          icon: fab fa-twitter
-          url: https://twitter.com/K4LM3D
+      # Twitter:
+      #     icon: fab fa-twitter
+      #     url: https://twitter.com/K4LM3D
       TikTok:
         icon: fab fa-tiktok
         url: https://tiktok.com/K4LM3D
@@ -33,6 +33,7 @@ widgets:
       Referral Link: https://www.torn.com/3091002
       My Bazaar: https://www.torn.com/bazaar.php?userId=3091002#/
       Course Checklist: /torn/course-checklist
+      Support me on Ko-fi: https://ko-fi.com/kalmedkaliber
   # -
   #   type: recent_posts
   #   position: left
