@@ -12,6 +12,11 @@ Thanks for stopping by. I will be posting more gaming related contents and exper
 
 ___
 
-**Edit** (2026-01-03):
-- I changed my in-game name/username to **Kalakal**. You can check my post about it [here](/torn/2025-year-in-review-highlights).
-- Also, I changed this site description to **Torn Diaries** because **Inf3xshun** used that to refer to this.
+**Edits**:
+- 2026/01/03
+  - I changed my in-game name/username to **Kalakal**. You can check my post about it [here](/torn/2025-year-in-review-highlights).
+  - Also, I changed this site description to **Torn Diaries** because **Inf3xshun** used that to refer to this.
+- 2026/03/03
+  - I changed my name from **Kalakal** to **Asha_Pervaz**
+- 16/06/26
+  - I changed my name from **Asha_Pervaz** back to my original name **K4LM3D**. Reason for changing: Ever since I've changed my name to **Asha_Pervaz**, I've got mugged for a hundred times (?). Don't know why but it's probably because it's starts with letter A
