@@ -5,9 +5,9 @@ logo: /images/logos/K4LM3D-text.png
 head:
   favicon: /images/icons/favicon.ico
   manifest: # PWA
-    name: K4LM3D
-    short_name: Kal
-    start_url: https://kalmed.localplayer.dev # https://k4lm3d.github.io
+    name: "K4LM3D's Torn Diaries"
+    short_name: KTD
+    start_url: https://kalmed.localplayer.dev/torn/ # https://k4lm3d.github.io
     theme_color: '#91bf24'
     background_color: '#91bf24' # '#3273dc'
     display: standalone
@@ -23,7 +23,7 @@ head:
         src: images/icons/favicon.ico
         sizes: 72x72 96x96 128x128 256x256
   open_graph:
-    title: K4LM3D
+    title: "K4LM3D's Torn Diaries"
     type: blog
     url: https://kalmed.localplayer.dev
     image: images/avatars/DALLE-K4LM3D.png
@@ -37,8 +37,8 @@ head:
     fb_admins: 
     fb_app_id: 
   structured_data:
-    title: K4LM3D
-    description: Torn Diaries
+    title: "K4LM3D's Torn Diaries"
+    description: Torn City Diaries of K4LM3D
     url: https://kalmed.localplayer.dev/torn/
     author: K4LM3D
     image: images/avatars/DALLE-K4LM3D.png
@@ -83,15 +83,15 @@ footer:
     Github:
       icon: fab fa-github
       url: https://github.com/K4LM3D
-    Guilded:
-      icon: fab fa-guilded
-      url: https://guilded.gg/u/K4LM3D
+    # Guilded:
+    #   icon: fab fa-guilded
+    #   url: https://guilded.gg/u/K4LM3D
     Itch:
       icon: fab fa-itch-io
       url: https://k4lm3d.itch.io/
-    # Reddit:
-    #   icon: fab fa-reddit
-    #   url: https://www.reddit.com/user/K4LM3D
+    Reddit:
+      icon: fab fa-reddit
+      url: https://www.reddit.com/user/K4LM3D
     # Twitch:
     #   icon: fab fa-twitch
     #   url: https://www.twitch.tv/k4lm3d_
