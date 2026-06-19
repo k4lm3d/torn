@@ -5,8 +5,8 @@ logo: /images/logos/K4LM3D-text.png
 head:
   favicon: /images/icons/favicon.ico
   manifest: # PWA
-    name: Kalakal
-    short_name: Kalakal
+    name: K4LM3D
+    short_name: Kal
     start_url: https://kalmed.localplayer.dev # https://k4lm3d.github.io
     theme_color: '#91bf24'
     background_color: '#91bf24' # '#3273dc'
@@ -23,13 +23,13 @@ head:
         src: images/icons/favicon.ico
         sizes: 72x72 96x96 128x128 256x256
   open_graph:
-    title: Kalakal
+    title: K4LM3D
     type: blog
     url: https://kalmed.localplayer.dev
     image: images/avatars/DALLE-K4LM3D.png
-    site_name: Kalakal
+    site_name: Torn Diaries
     author: K4LM3D
-    description: Torn Diaries
+    description: Torn Diaries and Blog
     twitter_card: 
     twitter_id: 
     twitter_site: 
@@ -37,9 +37,9 @@ head:
     fb_admins: 
     fb_app_id: 
   structured_data:
-    title: Kalakal
+    title: K4LM3D
     description: Torn Diaries
-    url: https://kalmed.localplayer.dev
+    url: https://kalmed.localplayer.dev/torn/
     author: K4LM3D
     image: images/avatars/DALLE-K4LM3D.png
     publisher: K4LM3D
